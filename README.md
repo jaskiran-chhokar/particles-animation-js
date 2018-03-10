@@ -1,4 +1,4 @@
-# particles.js
+# Particles.js
 
 A lightweight JavaScript library used to create a display of animated particles, or various other interactive effects. You can head over to this [Github Link](https://github.com/VincentGarreau/particles.js/) to view the original library. 
 
