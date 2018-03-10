@@ -18,6 +18,8 @@ A lightweight JavaScript library used to create a display of animated particles,
 
 ## Running Project
 
+  Make sure to add your current directory to this command, in order to successfully run it.
+
   ``` 
   
   $ npm live-server "C:\"
