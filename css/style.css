@@ -1,9 +1,27 @@
+body {
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+  	overflow-y:hidden;
+}
+
+section {
+	background: beige;
+	height: 300px;
+	margin: 0 auto;
+	z-index: 1;
+	position: relative;
+	top: 50%;
+}
+
 #particles-js {
-		background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
-	    linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
-	    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
-		height: 520px;
-		margin: 0 auto;
-		margin: 5%; 
-		border: 1px solid #000;
+	background-image: url(https://i.pinimg.com/originals/70/7c/3a/707c3a6a176d6d7c32de951467ae946b.jpg); 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 100%;
+	margin: 0 auto;
+	border-bottom: 2px solid grey;
+	box-shadow: 0 12px 6px -6px grey;
+	padding-bottom: 200px; 
 }
